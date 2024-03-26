@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1584934580 source:c:\users\fernandosp\desktop\practica 1 edd2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	"Proyecto.h"
+
+1584934963 c:\users\fernandosp\desktop\practica 1 edd2\include\proyecto.h
+	<string>
+	<time.h>
+
+1584934745 source:c:\users\fernandosp\desktop\practica 1 edd2\src\proyecto.cpp
+	"Proyecto.h"
+	<string>
+
+1584938180 source:c:\users\fernandosp\documents\tercer semestre\edd2\practica 1 edd2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	"Proyecto.h"
+
+1584938563 c:\users\fernandosp\documents\tercer semestre\edd2\practica 1 edd2\include\proyecto.h
+	<string>
+	<time.h>
+
+1584938345 source:c:\users\fernandosp\documents\tercer semestre\edd2\practica 1 edd2\src\proyecto.cpp
+	"Proyecto.h"
+	<string>
+
