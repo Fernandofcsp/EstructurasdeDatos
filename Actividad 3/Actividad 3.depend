@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1567902206 source:c:\users\fernandosp\documents\actividad 3\src\songlist.cpp
+	"SongList.h"
+
+1567901948 c:\users\fernandosp\documents\actividad 3\include\songlist.h
+	"songs.h"
+
+1567898243 c:\users\fernandosp\documents\actividad 3\include\songs.h
+	<string>
+
+1567898239 source:c:\users\fernandosp\documents\actividad 3\src\songs.cpp
+	<cstdio>
+	"songs.h"
+
+1567904100 source:c:\users\fernandosp\documents\actividad 3\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	"SongList.h"
+

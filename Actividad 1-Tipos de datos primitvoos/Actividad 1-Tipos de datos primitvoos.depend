@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1548395481 source:c:\users\hp g4\desktop\procgramas c++\estructura de datos\actividad 1-tipos de datos primitvoos\matrizz.cpp
+	"Matrizz.h"
+	"time.h"
+	<iomanip>
+	<stdlib.h>
+	<iostream>
+
+1548394101 source:c:\users\hp g4\desktop\procgramas c++\estructura de datos\actividad 1-tipos de datos primitvoos\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Matrizz.h"
+	"Tabla.h"
+
+1548393083 c:\users\hp g4\desktop\procgramas c++\estructura de datos\actividad 1-tipos de datos primitvoos\matrizz.h
+
+1548392827 c:\users\hp g4\desktop\procgramas c++\estructura de datos\actividad 1-tipos de datos primitvoos\tabla.h
+
+1548393656 source:c:\users\hp g4\desktop\procgramas c++\estructura de datos\actividad 1-tipos de datos primitvoos\tabla.cpp
+	"iostream"
+	<climits>
+	<cfloat>
+	<iomanip>
+	"Tabla.h"
+
+1548397701 source:c:\users\fernandosp\downloads\actividad 1-tipos de datos primitvoos\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Matrizz.h"
+	"Tabla.h"
+
+1548396683 c:\users\fernandosp\downloads\actividad 1-tipos de datos primitvoos\matrizz.h
+
+1548396427 c:\users\fernandosp\downloads\actividad 1-tipos de datos primitvoos\tabla.h
+
+1548566498 source:c:\users\fernandosp\downloads\actividad 1-tipos de datos primitvoos\matrizz.cpp
+	"Matrizz.h"
+	"time.h"
+	<iomanip>
+	<stdlib.h>
+	<iostream>
+
+1548397256 source:c:\users\fernandosp\downloads\actividad 1-tipos de datos primitvoos\tabla.cpp
+	"iostream"
+	<climits>
+	<cfloat>
+	<iomanip>
+	"Tabla.h"
+
+1548562898 source:c:\users\fernandosp\documents\materias segundo semestre informatica\actividades alfredios\actividades\actividad 1-tipos de datos primitvoos\matrizz.cpp
+	"Matrizz.h"
+	"time.h"
+	<iomanip>
+	<stdlib.h>
+	<iostream>
+
+1548393083 c:\users\fernandosp\documents\materias segundo semestre informatica\actividades alfredios\actividades\actividad 1-tipos de datos primitvoos\matrizz.h
+
+1548393656 source:c:\users\fernandosp\documents\materias segundo semestre informatica\actividades alfredios\actividades\actividad 1-tipos de datos primitvoos\tabla.cpp
+	"iostream"
+	<climits>
+	<cfloat>
+	<iomanip>
+	"Tabla.h"
+
+1548392827 c:\users\fernandosp\documents\materias segundo semestre informatica\actividades alfredios\actividades\actividad 1-tipos de datos primitvoos\tabla.h
+

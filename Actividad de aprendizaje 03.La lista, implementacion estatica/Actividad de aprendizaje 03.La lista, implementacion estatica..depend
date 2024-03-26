@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1567894100 source:c:\users\fernandosp\documents\actividad de aprendizaje 03.la lista, implementacion estatica.\src\cancion.cpp
+	"Cancion.h"
+
+1567894562 c:\users\fernandosp\documents\actividad de aprendizaje 03.la lista, implementacion estatica.\include\cancion.h
+	<string>
+
+1567894124 source:c:\users\fernandosp\documents\actividad de aprendizaje 03.la lista, implementacion estatica.\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string>
+	"Lista.h"
+	"Cancion.h"
+
+1567897656 c:\users\fernandosp\documents\actividad de aprendizaje 03.la lista, implementacion estatica.\include\lista.h
+	<iostream>
+	"Cancion.h"
+
+1567894734 source:c:\users\fernandosp\documents\actividad de aprendizaje 03.la lista, implementacion estatica.\src\lista.cpp
+	"Lista.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570321319 source:c:\users\fernandosp\documents\actividad de aprendizaje 07. metodos de ordenamiento recursivos\src\randomnumbers.cpp
+	"RandomNumbers.h"
+
+1570321319 c:\users\fernandosp\documents\actividad de aprendizaje 07. metodos de ordenamiento recursivos\include\randomnumbers.h
+
+1570321319 source:c:\users\fernandosp\documents\actividad de aprendizaje 07. metodos de ordenamiento recursivos\src\methods.cpp
+	"Methods.h"
+	<iostream>
+
+1570321627 c:\users\fernandosp\documents\actividad de aprendizaje 07. metodos de ordenamiento recursivos\include\methods.h
+	"RandomNumbers.h"
+

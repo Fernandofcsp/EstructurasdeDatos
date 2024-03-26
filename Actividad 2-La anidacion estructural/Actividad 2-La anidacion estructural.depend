@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567312383 source:c:\users\fernandosp\documents\actividad 2-la anidacion estructural\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+

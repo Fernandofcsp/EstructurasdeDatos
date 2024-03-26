@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1567907018 source:c:\users\fernandosp\documents\pruebaact3\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	"Lista.h"
+
+1567906752 c:\users\fernandosp\documents\pruebaact3\include\lista.h
+	"Musica.h"
+
+1567905477 c:\users\fernandosp\documents\pruebaact3\include\musica.h
+	<string>
+
+1567906752 source:c:\users\fernandosp\documents\pruebaact3\src\lista.cpp
+	"Lista.h"
+
+1567905281 source:c:\users\fernandosp\documents\pruebaact3\src\musica.cpp
+	"Musica.h"
+	<cstdio>
+
+1569118262 source:c:\users\fernandosp\downloads\lista actividad 3\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	"Lista.h"
+
+1569118224 c:\users\fernandosp\downloads\lista actividad 3\include\lista.h
+	"Musica.h"
+
+1567905477 c:\users\fernandosp\downloads\lista actividad 3\include\musica.h
+	<string>
+
+1569118224 source:c:\users\fernandosp\downloads\lista actividad 3\src\lista.cpp
+	"Lista.h"
+
+1567905281 source:c:\users\fernandosp\downloads\lista actividad 3\src\musica.cpp
+	"Musica.h"
+	<cstdio>
+
+1569722903 source:c:\users\fernandosp\documents\actividad 5\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"Lista.h"
+	"Musica.h"
+
+1569118224 source:c:\users\fernandosp\documents\actividad 5\src\lista.cpp
+	"Lista.h"
+
+1569722633 c:\users\fernandosp\documents\actividad 5\include\lista.h
+	"Musica.h"
+	<string>
+	"Exception.h"
+
+1569722913 c:\users\fernandosp\documents\actividad 5\include\musica.h
+	<string>
+	<iostream>
+	<string>
+
+1569722923 source:c:\users\fernandosp\documents\actividad 5\src\musica.cpp
+	"Musica.h"
+
+1569697325 c:\users\fernandosp\documents\actividad 5\include\exception.h
+
+1569719303 source:c:\users\fernandosp\desktop\actividad de aprendizajen 05. metodos de ordenamiento\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"Lista.h"
+	"Musica.h"
+
+1570926113 c:\users\fernandosp\desktop\actividad de aprendizajen 05. metodos de ordenamiento\include\lista.h
+	"Musica.h"
+	<string>
+	"Exception.h"
+	"node.h"
+
+1570926760 c:\users\fernandosp\desktop\actividad de aprendizajen 05. metodos de ordenamiento\include\musica.h
+	<string>
+	<iostream>
+
+1569693725 c:\users\fernandosp\desktop\actividad de aprendizajen 05. metodos de ordenamiento\include\exception.h
+
+1570926123 c:\users\fernandosp\desktop\actividad de aprendizajen 05. metodos de ordenamiento\include\node.h
+
+1570926759 source:c:\users\fernandosp\desktop\actividad de aprendizajen 05. metodos de ordenamiento\src\musica.cpp
+	"Musica.h"
+
+1570928408 source:c:\users\fernandosp\desktop\actividad de aprendizaje 08. apuntadores\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"Lista.h"
+	"Musica.h"
+
+1570928671 c:\users\fernandosp\desktop\actividad de aprendizaje 08. apuntadores\include\lista.h
+	<string>
+	"Exception.h"
+	"node.h"
+
+1570927176 c:\users\fernandosp\desktop\actividad de aprendizaje 08. apuntadores\include\exception.h
+	<exception>
+	<string>
+
+1570927843 c:\users\fernandosp\desktop\actividad de aprendizaje 08. apuntadores\include\node.h
+
+1570926760 c:\users\fernandosp\desktop\actividad de aprendizaje 08. apuntadores\include\musica.h
+	<string>
+	<iostream>
+
+1570926759 source:c:\users\fernandosp\desktop\actividad de aprendizaje 08. apuntadores\src\musica.cpp
+	"Musica.h"
+
+1570928724 source:c:\users\fernandosp\desktop\actividad de aprendizaje 08. apuntadores\src\node.cpp
+	"node.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1571551653 source:c:\users\fernandosp\documents\actividad de aprendizaje 09\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"List.h"
+	"Songs.h"
+
+1571549534 c:\users\fernandosp\documents\actividad de aprendizaje 09\include\list.h
+	<string>
+	<exception>
+
+1571549534 c:\users\fernandosp\documents\actividad de aprendizaje 09\include\songs.h
+	<iostream>
+	<string>
+
+1571549534 source:c:\users\fernandosp\documents\actividad de aprendizaje 09\src\songs.cpp
+	"songs.h"
+

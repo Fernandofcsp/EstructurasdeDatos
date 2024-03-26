@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1554590863 source:c:\users\mario\onedrive\escritorio\tarea11\act_11\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	"stack.h"
+	"queue.h"
+	"E.h"
+
+1553999034 c:\users\mario\onedrive\escritorio\tarea11\act_11\stack.h
+	<string>
+	<exception>
+
+1554588198 c:\users\mario\onedrive\escritorio\tarea11\act_11\queue.h
+	<string>
+	<exception>
+
+1554589830 c:\users\mario\onedrive\escritorio\tarea11\act_11\e.h
+
+1554573940 source:c:\users\cesar\documents\act_11\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	"stack.h"
+	"queue.h"
+	"E.h"
+
+1553981034 c:\users\cesar\documents\act_11\stack.h
+	<string>
+	<exception>
+
+1554570200 c:\users\cesar\documents\act_11\queue.h
+	<string>
+	<exception>
+
+1554571832 c:\users\cesar\documents\act_11\e.h
+

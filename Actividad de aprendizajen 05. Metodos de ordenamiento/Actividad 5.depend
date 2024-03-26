@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1569722903 source:c:\users\fernandosp\documents\actividad 5\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"Lista.h"
+	"Musica.h"
+
